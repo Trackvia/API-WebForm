@@ -19,8 +19,8 @@ https://github.com/Trackvia/API-Javascript-SDK
 ## Usage
 
 1.  Enable API access in your TrackVia Account
-2.  Create a user a limited user in the account
-3.  Grant the user access to create records only via a Role
+2.  Create a limited user in the account
+3.  Grant the user access to create records via a role
 4.  Get the view id that will be used for creating records
 5.  Modify the form and code to match the field names that will be created in
     the view
