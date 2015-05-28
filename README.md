@@ -77,6 +77,7 @@ https://github.com/Trackvia/API-Javascript-SDK
 
 ## Sample Javascript
 
+Instantiate the TrackVia object
 ```javascript
 var tv = new TrackVia(
     'YOUR_API_KEY',
@@ -85,7 +86,7 @@ var tv = new TrackVia(
     'TrackViaAPI');
 ```
 
-Get a list of views and record
+Get the form data and create the record
 ```javascript
         $(document).ready( function() {
             $("#signupForm").submit(function() {
